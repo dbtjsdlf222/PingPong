@@ -6,13 +6,19 @@
     <li><a href="#runScreen">html 실행 화면</a></li>
     <li><a href="#gameScreen">게임 화면</a></li>
     <li><a href="#function">기능</a></li>
-  <ul>
+  </ul>
+  
 <br />
+
 <blockquote id="runScreen">최대 획득 가능 점수를 설정한 후 게임 시작을 누릅니다.</blockquote>
-<img src="https://user-images.githubusercontent.com/34783191/107016162-f410a980-67e0-11eb-82d5-bb2623988b38.png">
+<img src="https://user-images.githubusercontent.com/34783191/107016162-f410a980-67e0-11eb-82d5-bb2623988b38.png" alt="게임 처음 화면 스크린샷">
+
+<br />
 
 <blockquote id="gameScreen">게임 화면 입니다.</blockquote>
-<img src="https://user-images.githubusercontent.com/34783191/107017052-03dcbd80-67e2-11eb-94a7-afebbea2ec16.png">
+<img src="https://user-images.githubusercontent.com/34783191/107017052-03dcbd80-67e2-11eb-94a7-afebbea2ec16.png" alt="게임 시작 후 스크린샷">
+
+<br />
 
 <blockquote id="function">기능</blockquote>
 <ul>
