@@ -1,6 +1,8 @@
 # PingPong
 <h1>HTML CSS JQuery로 만든 2인용 핑퐁게임</h1>
 
+<a href="sunx.cafe24.com/pingpong.html">게임 링크</a>
+
 <h3>목차<h3>
   <ul>
     <li><a href="#runScreen">html 실행 화면</a></li>
